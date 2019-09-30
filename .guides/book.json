@@ -1,0 +1,17 @@
+{
+ "name": "Project-1",
+ "children": [
+  {
+   "title": "Page 1",
+   "id": "2df18aea-f990-f1e4-4bd7-4d5c4e47bd5f",
+   "pageId": "2df18aea-f990-f1e4-4bd7-4d5c4e47bd5f",
+   "type": "page"
+  },
+  {
+   "title": "Page 2",
+   "id": "9516b86f-1a17-d9f7-5a33-9a835e9e214a",
+   "pageId": "9516b86f-1a17-d9f7-5a33-9a835e9e214a",
+   "type": "page"
+  }
+ ]
+}
